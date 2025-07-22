@@ -15,6 +15,6 @@ logging.basicConfig(
 
 
 )
-if __name__ == "__main__":
-    logging.info("Logging has been set up successfully.")
-    print(f"Logs will be saved to {LOG_FILE_PATH}")  # For demonstration purposes
+# if __name__ == "__main__":
+#     logging.info("Logging has been set up successfully.")
+#     print(f"Logs will be saved to {LOG_FILE_PATH}")  # For demonstration purposes
